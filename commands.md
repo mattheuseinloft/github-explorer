@@ -25,3 +25,6 @@
 
 ## Importando arquivos CSS
 11. yarn add style-loader css-loader -D
+s
+## Utilizando SASS
+12. yarn add node-sass sass-loader -D
