@@ -13,3 +13,9 @@
 6. yarn add webpack webpack-cli -D
 7. yarn add babel-loader -D
   - yarn webpack
+
+## Servindo HTML estático
+8. yarn add html-webpack-plugin -D
+
+## Webpack Dev Server
+9. yarn add webpack-dev-server -D
