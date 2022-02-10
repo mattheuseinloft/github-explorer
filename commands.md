@@ -22,3 +22,6 @@
 
 ## Ambiente dev e produção
 10. yarn add cross-env -D
+
+## Importando arquivos CSS
+11. yarn add style-loader css-loader -D
