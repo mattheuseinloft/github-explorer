@@ -19,3 +19,6 @@
 
 ## Webpack Dev Server
 9. yarn add webpack-dev-server -D
+
+## Ambiente dev e produção
+10. yarn add cross-env -D
