@@ -25,6 +25,9 @@
 
 ## Importando arquivos CSS
 11. yarn add style-loader css-loader -D
-s
+
 ## Utilizando SASS
 12. yarn add node-sass sass-loader -D
+
+## Fast Refresh no Webpack
+13. yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
